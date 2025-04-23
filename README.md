@@ -12,9 +12,6 @@
 
 
 
-
-
-
 # 🌐 Pradeep Kumar | Cybersecurity & Full-Stack Developer Portfolio
 
 Welcome to my personal portfolio website!  
@@ -33,9 +30,41 @@ I specialize in:
 - JavaScript
 - Font Awesome
 - Git & GitHub
+- Java & Android Studio
+- Flutter & Dart
+- PHP & MySQL
 
 ## 🎯 Projects
-Explore my featured projects including secure apps, responsive websites, and penetration testing tools.
+
+### 🔐 Secure File System App
+An Android app to securely store photos, videos, and sensitive data with password, fingerprint, and face recognition protection.  
+| 📱 Android
+
+### 📋 Attendance Management System App
+Complete Android app for marking attendance, recording marks, and sending messages across sections. Supports live updates and multiple B.Tech specializations.  
+| 📱 Android
+
+### 🎬 YouTube Clone (Flutter)
+A UI-rich clone of YouTube made using Flutter and Dart.  
+| 📱 Android & iOS
+
+### 🧠 Quiz App (PHP & MySQL)
+Web-based quiz system that fetches and displays questions from a MySQL database using PHP.  
+ | 💻 Web
+
+### 🔕 Smart Silent Mode App
+Automatically sets the phone to silent mode during class or work hours and switches back afterward.  
+ | 📱 Android
+
+
+
+### 🧠 Phishing Awareness Website
+A public awareness project to educate users on phishing attacks and cybersecurity tips.  
+| 🌍 Web
+
+### 💡 IoT Fan Control with ESP8266
+A project to control a fan using a phone and ESP8266 with relay setup.  
+| 🧠 IoT
 
 ## 📫 Contact
 - Email: pradeep@example.com
@@ -43,4 +72,5 @@ Explore my featured projects including secure apps, responsive websites, and pen
 - LinkedIn: [linkedin.com/in/pradeepkumar](https://linkedin.com/in/pradeepkumar)
 
 ---
+
 ⭐ If you like this portfolio, give it a star and connect with me!
