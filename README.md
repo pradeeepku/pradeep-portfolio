@@ -1,5 +1,9 @@
 # pradeep-portfolio
 
+![image](https://github.com/user-attachments/assets/7bd0efdd-2a51-48f1-bd97-20f1344573b6)
+
+
+
 
 # 🌐 Pradeep Kumar | Cybersecurity & Full-Stack Developer Portfolio
 
